@@ -4,7 +4,7 @@
 
 ## Command สำหรับรัน `npm start` หรือ `yarn start` โดยใช้คำสั่งที่ parth ของโปรเจค
 
-### import library ที่นำมาใช้ในส่วนของระบบจองห้อง
+## import library ที่นำมาใช้ในส่วนของระบบจองห้อง
 
 `yarn add @mui/x-date-pickers`
 
