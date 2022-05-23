@@ -1,0 +1,11 @@
+.imgContent {
+    flex-direction: row;
+    text-align: left;
+    padding-right: 4%;
+    padding-left: 4%;
+}
+
+#image {
+    margin-top: 4px;
+    margin-left: 4px;
+}
